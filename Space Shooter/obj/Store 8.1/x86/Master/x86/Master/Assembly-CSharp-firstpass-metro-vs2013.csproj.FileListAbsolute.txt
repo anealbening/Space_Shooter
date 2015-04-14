@@ -1,0 +1,17 @@
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\bin\Store 8.1\x86\Master\Assembly-CSharp-firstpass.pri
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\Assembly-CSharp-firstpass-metro-vs2013.csprojResolveAssemblyReference.cache
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\Assembly-CSharp-firstpass.dll
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\Assembly-CSharp-firstpass.pdb
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\priconfig.xml
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\priconfig.xml.intermediate
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\layout.resfiles
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\layout.resfiles.intermediate
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\resources.resfiles
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\resources.resfiles.intermediate
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\pri.resfiles
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\pri.resfiles.intermediate
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\qualifiers.txt
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\qualifiers.txt.intermediate
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\obj\Store 8.1\x86\Master\x86\Master\MultipleQualifiersPerDimensionFound.txt

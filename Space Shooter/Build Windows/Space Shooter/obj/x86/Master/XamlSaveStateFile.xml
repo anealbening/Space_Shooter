@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\space shooter\obj\x86\master\intermediatexaml\template.exe" HashGuid="117b54e3-54fc-bb47-58f2-4c5f33d92363" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windows\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\bin\store 8.1\x86\master\assembly-csharp-firstpass.dll" HashGuid="215c6533-2ef6-0943-9d67-1abaeb4e9466" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\bin\store 8.1\x86\master\assembly-csharp.dll" HashGuid="6d5a000f-c33a-4067-43b4-1f7f6051b10c" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\players\windows81\x86\master\bridgeinterface.winmd" HashGuid="53294fea-fc75-44c8-e6c0-4f55735a7d0b" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\space shooter\unityengine.dll" HashGuid="5ac16355-8fa0-48e9-5bf5-c6e396cf8bdd" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\space shooter\unityengine.ui.dll" HashGuid="7e441b3d-f42f-e6d4-8d46-963f8f8f9433" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\players\windows81\x86\master\unityenginedelegates.winmd" HashGuid="d5bfa646-8453-25f8-b5ef-24280c447d94" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\players\windows81\x86\master\unityengineproxy.dll" HashGuid="92a70c00-a30d-4bf8-1ff3-e40d6c332c05" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\players\windows81\x86\master\unityplayer.winmd" HashGuid="d7b45378-89d4-38ea-6d85-f30264101114" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\players\windows81\x86\master\winrtbridge.winmd" HashGuid="1216e90d-43d7-7584-487f-4ede993de823" />
+    <ReferenceAssembly PathName="c:\users\aneal\desktop\unity game development - space shooter\space shooter\build windows\space shooter\winrtlegacy.dll" HashGuid="9c444730-e07d-8e11-211c-0832bac9674d" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,4 @@
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\Assembly-CSharp-firstpass-metro-vs2013.csproj;x86
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\Assembly-CSharp-firstpass-metro-vs2013.csproj;x86
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\Assembly-CSharp-metro-vs2013.csproj;x86
+C:\Users\Aneal\Desktop\Unity Game Development - Space Shooter\Space Shooter\Build Windows\Space Shooter\Space Shooter.csproj;x86
